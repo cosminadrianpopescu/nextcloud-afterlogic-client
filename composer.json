@@ -1,0 +1,15 @@
+{
+    "name": "After Logic Client",
+    "description": "Afterlogic email client",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Cosmin Popescu"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
